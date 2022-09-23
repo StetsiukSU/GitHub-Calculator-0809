@@ -3,7 +3,7 @@ package app;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("My app for Users!");
+        System.out.println("Calculator for base calculations");
         System.out.println("Version 1.0");
         int a = 8;
         int b = 2;
